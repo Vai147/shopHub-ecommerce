@@ -298,7 +298,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React** - For the modern frontend library
 - **Tailwind CSS** - For the beautiful UI components
 - **Netflix Eureka** - For service discovery
-- **Unsplash** - For the beautiful images
+
 
 
 ---
