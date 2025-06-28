@@ -135,7 +135,7 @@ npm start
 ![Eureka](assests/eureka.png)
 
 ### Eureka Info
-![Eureka info](assests/eureka.png)
+![Eureka info](assests/eureka-general-info.png)
 
 
 
