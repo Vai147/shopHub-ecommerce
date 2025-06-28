@@ -125,13 +125,14 @@ npm start
 ### Product Catalog
 ![Products](assests/product-catalog.png)
 
-### Product Catagories
-![Products](assests/product-catalog.png)
+### Product 
+![Products](assests/products.png)
 
 ### Shopping Cart
 ![Cart](assests/shopping-cart.png)
 
 ### Eureka
+![Eureka](assests/shopping-cart.png)
 
 
 ## 🔧 Configuration
