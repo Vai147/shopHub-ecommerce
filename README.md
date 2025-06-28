@@ -132,7 +132,11 @@ npm start
 ![Cart](assests/shopping-cart.png)
 
 ### Eureka
-![Eureka](assests/shopping-cart.png)
+![Eureka](assests/eureka.png)
+
+### Eureka Info
+![Eureka info](assests/eureka.png)
+
 
 
 ## 🔧 Configuration
