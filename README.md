@@ -123,7 +123,7 @@ npm start
 ![Homepage](assests/stubHub.png)
 
 ### Product Catalog
-![Products](https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
+![Products](assests/product-catalog.png)
 
 ### Shopping Cart
 ![Cart](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
