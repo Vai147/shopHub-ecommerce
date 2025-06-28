@@ -2,7 +2,7 @@
 
 A modern, full-stack e-commerce platform built with Spring Boot microservices architecture and React frontend. This project demonstrates a complete e-commerce solution with user management, product catalog, shopping cart, order processing, and payment integration.
 
-![ShopHub Banner](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80)
+![ShopHub Banner](assests/stubHub.png)
 
 ## ✨ Features
 
@@ -120,13 +120,16 @@ npm start
 ## 📱 Application Screenshots
 
 ### Homepage
-![Homepage](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
+![Homepage](assests/stubHub.png)
 
 ### Product Catalog
 ![Products](https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
 
 ### Shopping Cart
 ![Cart](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
+
+### Eureka
+
 
 ## 🔧 Configuration
 
