@@ -1,0 +1,8 @@
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/product-service/src/main/java/com/example/productservice/dto/ProductRequest.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/product-service/src/main/java/com/example/productservice/model/Product.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/product-service/src/main/java/com/example/productservice/config/DataLoader.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/product-service/src/main/java/com/example/productservice/repository/ProductRepository.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/product-service/src/main/java/com/example/productservice/dto/ProductResponse.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/product-service/src/main/java/com/example/productservice/controller/ProductController.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/product-service/src/main/java/com/example/productservice/service/ProductService.java

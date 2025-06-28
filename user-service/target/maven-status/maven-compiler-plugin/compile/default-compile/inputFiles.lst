@@ -1,0 +1,15 @@
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/config/DataLoader.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/security/CustomUserDetails.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/model/User.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/dto/LoginRequest.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/repository/UserRepository.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/dto/UserResponse.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/dto/UserRegistrationRequest.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/config/SecurityConfig.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/UserServiceApplication.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/service/UserService.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/dto/AuthResponse.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/model/UserRole.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/security/JwtTokenUtil.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/controller/UserController.java
+/Users/vaibhavsomkuwar/Desktop/resume-projects/ecommerce-platform/user-service/src/main/java/com/example/userservice/security/CustomUserDetailsService.java
