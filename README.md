@@ -273,20 +273,6 @@ curl -X POST http://localhost:8080/api/users/register \
   -d '{"username":"testuser","email":"test@example.com","password":"password123","firstName":"Test","lastName":"User"}'
 ```
 
-## 🚀 Deployment
-
-### Docker Deployment
-```bash
-# Build Docker images
-docker build -t shophub-frontend ./frontend
-docker build -t shophub-user-service ./user-service
-docker build -t shophub-product-service ./product-service
-# ... repeat for other services
-
-# Run with Docker Compose
-docker-compose up -d
-```
-
 ### Production Configuration
 1. Update database configurations to use PostgreSQL
 2. Configure external service discovery (Eureka)
