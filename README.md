@@ -125,8 +125,11 @@ npm start
 ### Product Catalog
 ![Products](assests/product-catalog.png)
 
+### Product Catagories
+![Products](assests/product-catalog.png)
+
 ### Shopping Cart
-![Cart](https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80)
+![Cart](assests/shopping-cart.png)
 
 ### Eureka
 
